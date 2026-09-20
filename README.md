@@ -53,3 +53,7 @@ Your final balance is: 60
 ## A Quick Note on the Odds
 
 Each guess has a 1 in 6 chance of being right, so the game is stacked against you. On average you lose about $5 per die. Good luck anyway.
+
+## Author
+
+Timothy Champlin
